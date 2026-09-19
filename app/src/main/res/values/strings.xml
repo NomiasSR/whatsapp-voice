@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice WhatsApp</string>
+    <string name="accessibility_service_description">
+        Permite controlar o WhatsApp por comandos de voz: abrir contatos, ler e enviar mensagens.
+    </string>
+</resources>

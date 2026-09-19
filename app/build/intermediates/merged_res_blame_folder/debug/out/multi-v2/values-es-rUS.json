@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.voicewhatsapp-mergeDebugResources-18:/values-es-rUS/values-es-rUS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\p001270\\.gradle\\caches\\9.0-milestone-1\\transforms\\96a788d4b25d8546e5bf24497a2f7085\\transformed\\core-1.12.0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,356,454,561,667,787",
+                        "endColumns": "98,101,99,97,106,105,119,100",
+                        "endOffsets": "149,251,351,449,556,662,782,883"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.voicewhatsapp-debug-20:/xml_accessibility_service_config.xml.flat",
+        "source": "com.example.voicewhatsapp-main-22:/xml/accessibility_service_config.xml"
+    }
+]

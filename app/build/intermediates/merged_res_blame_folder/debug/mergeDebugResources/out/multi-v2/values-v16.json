@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.voicewhatsapp-mergeDebugResources-18:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\p001270\\.gradle\\caches\\9.1.0\\transforms\\f44f6cc1a0ed33a3ed825a36eb1196f6\\workspace\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
